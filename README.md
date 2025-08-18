@@ -49,9 +49,9 @@
 Here are some of my public projects:
 
 - 🔗 [Full Stack Dynamic Portfolio](https://github.com/smjoy222/Full-Stack-Dynamic-Portfolio) — PHP & Backend
-- 🔗 [Bazar Sadaai App](https://github.com/smjoy222/bazar_sadaai_app) — Dart/Flutter & Partial_Backend
-- 🔗 [BazarShadai E-Commerce Website](https://github.com/smjoy222/BazarShadai_E-Commerce_Website) — Blade.PHP & Backend
-- 🔗 IOT Currently Working
+- 🔗 [Bazar Sadaai App](https://github.com/smjoy222/bazar_sadaai_app) — Dart/Flutter & Partial_Backend FireBase
+- 🔗 [BazarShadai E-Commerce Website](https://github.com/smjoy222/BazarShadai_E-Commarce_Website) — Blade.PHP & Laravel Backend
+- 🔗 [IOT Currently Working](https://github.com/smjoy222/Smart-Fencing-Security-System-for-Theft-Protection) — C
 - 🔗 [Project Compiler Design](https://github.com/smjoy222/Project-Compiler-Design) — C
 - 🔗 [Transport Management DS Project](https://github.com/smjoy222/Transport-Mangement-Project-Data-Structure-) — C
 - 🔗 [Flutter Tracker Lab](https://github.com/smjoy222/flutter_5777_development_tracker_lab) — Dart/Flutter
