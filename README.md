@@ -38,10 +38,6 @@ I am a **Computer Science & Engineering graduate from Daffodil International Uni
 Here are some of my public projects:
 ## 🚀 Featured Projects
 
-### 📱 Bazar Sadaai — Farm Fresh E-commerce App  
-Flutter • Firebase • Dart  
-🔗 https://github.com/smjoy222/bazar_sadaai_app  
-
 ### 🌐 BazarShadai — E-commerce Web Platform  
 Laravel • Blade PHP • MySQL  
 🔗 https://github.com/smjoy222/BazarShadai_E-Commarce_Website  
@@ -49,6 +45,10 @@ Laravel • Blade PHP • MySQL
 ### 🧑‍💻 Dynamic Portfolio Website  
 PHP • Backend System  
 🔗 https://github.com/smjoy222/Full-Stack-Dynamic-Portfolio  
+
+### 📱 Bazar Sadaai — Farm Fresh E-commerce App  
+Flutter • Firebase • Dart  
+🔗 https://github.com/smjoy222/bazar_sadaai_app 
 
 ### 🔐 Smart Fencing Security System (IoT)  
 C • Embedded Systems  
