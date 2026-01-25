@@ -7,14 +7,18 @@
 
 ---
 
-### 🌱 About Me
-I am a **Computer Science & Engineering graduate from Daffodil International University** with hands-on experience in **software development, mobile app development, and academic projects**.
+### 🌱 About Me  
 
-- 🔍 Strong interest in **Data Science & Machine Learning**  
-- 📱 Experienced in **Flutter mobile app development**  
-- 🌐 Building **full-stack web applications**  
-- 📈 Passionate about **continuous learning & problem solving**  
-- 🎯 Actively seeking **internship / entry-level software engineering opportunities**
+I am a **Computer Science & Engineering graduate** from **Daffodil International University** with experience in both **Deep Learning research and software development**. I have contributed to **conference-level research publications** while also building scalable, data-driven applications. I enjoy transforming ideas into practical software solutions and continuously improving my technical skill set.
+
+- 🤖 Research experience in **Deep Learning & Machine Learning**  
+- 📄 Co-author of **international conference publications**  
+- 🚀 Alos focused on **Web Development & Software Engineering**  
+- 📈 Actively improving skills in **full-stack development and advanced ML techniques**  
+- 📱 Experienced in **Flutter-based mobile application development**  
+- 🧠 Passionate about **problem solving and algorithmic thinking**  
+- 🎯 Open to **research collaboration, internships, and entry-level engineering opportunities**  
+
 
 🌐 **Portfolio Website:** https://smjoy222.github.io/Sazzad_Mahmud_Joy_Portfolio/  
 
@@ -109,9 +113,8 @@ C • Embedded Systems
 I’m open to:
 
 ✅ Internship Opportunities  
-✅ Entry-Level Software Engineering Roles  
-✅ Research Collaboration  
-✅ Open Source Contributions  
+✅ Entry-Level Web Engineering Roles  
+✅ Research Collaboration   
 
 📩 Feel free to connect — let’s build something impactful together! 🚀
 
