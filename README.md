@@ -20,19 +20,21 @@ I am a **Computer Science & Engineering graduate** from **Daffodil International
 - 🎯 Open to **research collaboration, internships, and entry-level engineering opportunities**  
 
 
-🌐 **Portfolio Website:** https://smjoy222.github.io/Sazzad_Mahmud_Joy_Portfolio/  
+🌐 **Portfolio Website:** https://smjoy-dev.github.io/Sazzad_Mahmud_Joy_Portfolio/  
 
 ---
 
 ### 📊 GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smjoy222&show_icons=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smjoy222&layout=compact" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=smjoy-dev&show_icons=true&theme=tokyonight&cache_seconds=1800" height="180"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smjoy-dev&layout=compact&theme=tokyonight&cache_seconds=1800" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smjoy222" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=smjoy-dev&theme=tokyonight" />
 </p>
 
 ---
@@ -44,35 +46,35 @@ Here are some of my public projects:
 
 ### 🌐 BazarShadai — E-commerce Web Platform  
 Laravel • Blade PHP • MySQL  
-🔗 https://github.com/smjoy222/BazarShadai_E-Commarce_Website  
+🔗 https://github.com/smjoy-dev/BazarShadai_E-Commarce_Website  
 
 ### 🧑‍💻 Dynamic Portfolio Website  
 PHP • Backend System  
-🔗 https://github.com/smjoy222/Full-Stack-Dynamic-Portfolio  
+🔗 https://github.com/smjoy-dev/Full-Stack-Dynamic-Portfolio  
 
 ### 📱 Bazar Sadaai — Farm Fresh E-commerce App  
 Flutter • Firebase • Dart  
-🔗 https://github.com/smjoy222/bazar_sadaai_app 
+🔗 https://github.com/smjoy-dev/bazar_sadaai_app 
 
 ### 🔐 Smart Fencing Security System (IoT)  
 C • Embedded Systems  
-🔗 https://github.com/smjoy222/Smart-Fencing-Security-System-for-Theft-Protection  
+🔗 https://github.com/smjoy-dev/Smart-Fencing-Security-System-for-Theft-Protection  
 
 ---
 
 ## 📂 Other Projects
 
-- 🔗 [An Interactive 2D Computer Graphics Project](https://github.com/smjoy222/Computer-Graphics-Project) — Python
-- 🔗 [Project Compiler Design](https://github.com/smjoy222/Project-Compiler-Design) — C 
-- 🔗 [Transport Management DS Project](https://github.com/smjoy222/Transport-Mangement-Project-Data-Structure-) — C
-- 🔗 [Flutter Tracker Lab](https://github.com/smjoy222/flutter_5777_development_tracker_lab) — Dart/Flutter 
+- 🔗 [An Interactive 2D Computer Graphics Project](https://github.com/smjoy-dev/Computer-Graphics-Project) — Python
+- 🔗 [Project Compiler Design](https://github.com/smjoy-dev/Project-Compiler-Design) — C 
+- 🔗 [Transport Management DS Project](https://github.com/smjoy-dev/Transport-Mangement-Project-Data-Structure-) — C
+- 🔗 [Flutter Tracker Lab](https://github.com/smjoy-dev/flutter_5777_development_tracker_lab) — Dart/Flutter 
 
 ---
 
 ### 💼 Connect With Me
 <p align="left">
 
-<a href="https://smjoy222.github.io/Sazzad_Mahmud_Joy_Portfolio/" target="_blank">
+<a href="https://smjoy-dev.github.io/Sazzad_Mahmud_Joy_Portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
