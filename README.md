@@ -28,13 +28,13 @@ I am a **Computer Science & Engineering graduate** from **Daffodil International
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smjoy-dev&show_icons=true&theme=tokyonight&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=smjoy-dev&show_icons=true&theme=default" height="180"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smjoy-dev&layout=compact&theme=tokyonight&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=smjoy-dev&layout=compact&theme=default" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=smjoy-dev&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=smjoy-dev&theme=default" />
 </p>
 
 ---
